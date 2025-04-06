@@ -562,7 +562,7 @@
 "Phönix-Hotels Schäfereck und Seeblick Wismar, Alter Speicher Lübeck | 23970"
 "Piran Nourbakhsch, Besitzunternehmen | 59757"
 "Ralph & Manuel Hüttl GbR, Taxiunternehmen Alpha Taxi | 63741"
-"RBH Raum,- Boden,- Hausreinigungs Gmbh | 81539"
+"RBH Raum,- Boden,- Hausreinigungs GmbH | 81539"
 "RBH Raum,- Boden,- Hausreinigungs | 81539"
 "RBH Raum,-Boden,-Hausreinigungs | 81539"
 "Registergericht Bonn, HRA 5493"
@@ -5863,7 +5863,6 @@
 124459
 12459
 1246
-124609218
 12463
 12464
 124654565
@@ -9049,7 +9048,6 @@
 20808
 2081 RD
 20810
-20814710522
 208168
 208173
 208177
@@ -9301,7 +9299,6 @@
 215487980
 21563
 215651549
-215686156
 21590
 215900
 21592
@@ -19991,6 +19988,9 @@
 301/5963/0461
 301/5963/1238
 301/5963/1409
+301/5963/1895
+301/5970/0705
+301/5970/1129
 301025518
 301049453
 301244876
